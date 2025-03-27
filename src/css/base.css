@@ -132,3 +132,11 @@ p {
     transform: rotate(360deg);
   }
 }
+
+.btn-load {
+  width: 125px;
+  margin: 32px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
